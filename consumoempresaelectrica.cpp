@@ -2,7 +2,7 @@
 
 using namespace std;
 
-/*
+/* CONSIGNA
 Una compañía de electricidad necesita calcular anualmente el consumo que ha
 registrado cada uno de sus usuarios y el monto pagado por cada uno de ellos.
 Para ello tiene un lote de registros por cada uno de los usuarios con los 
@@ -19,6 +19,11 @@ Total facturado en la zona: XX
 Zona: XX
 Cantidad de usuarios de la zona: XX
 Total facturado en la zona: XX
+
+El precio es escalonado según la siguiente escala:
+• $ 0.10 por kv por los primeros 100 kv de consumo.
+• $ 0.12 por kv por el consumo de 101 a 200 kvs.
+• $ 0.15 por kv por el consumo de 201 kvs en adelante.
 */
 
 int main()
