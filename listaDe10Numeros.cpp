@@ -2,7 +2,7 @@
 
 using namespace std;
 
-/*
+/* CONSIGNA
 Se dispone de una lista de 10 grupos de números enteros separados entre ellos 
 por ceros. Se pide determinar e informar:
 a. El número de grupo con mayor porcentaje de números impares 
